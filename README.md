@@ -1,7 +1,7 @@
 # SPMF-
 这是一个数据挖掘开源的网站，里面提供了大量数据挖掘的算法，包括:论文、算法源代码(java实现)、各种实验所用的数据集。
 
-#copyright
+**#copyright**
 
 The founder of the open-source data mining software SPMF:http://philippe-fournier-viger.com/
 
